@@ -1,0 +1,17 @@
+/* globals.css or any global CSS file */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap');
+
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* globals.css */
+body {
+  background-color: #d3d6cf; 
+  margin: 0; 
+  padding: 0; 
+}
+
